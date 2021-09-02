@@ -2,7 +2,7 @@
 HI! This is a project I made in the middle of my Junior year in High School. The project has a handful of features that gives you information on a polynomial you input. I mainly made this project because I thought that finding the roots of a parabola on a graphing calculator was quite clunky. Additionally you would have to find the roots manually if the parabola's roots were imaginary. This is my third interation of this project; the first made in Snap! and second in Python. This is by far the best of the three since it has much more features than simply returning the roots of a polynomial. Anyway I hope you enjoy the project!
 
 # Usage
-- After entering your polynomial in standard form you can chose from the options that will be listed. Just type in the option you want and your result will show up
+- After entering your polynomial in standard form you can chose from the options that will be listed. Just type in the option you want and your result will show 
 <br></br>
 Here are the commands and what they do:
 1. roots: returns the the x-intercepts of the input. If the x-intercepts are imaginary, it will plug the input into the quadratic equation and return that
